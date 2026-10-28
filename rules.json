@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "reel_ids": [
+    "reel_player_page_container",
+    "reel_watch_fragment",
+    "shorts_player",
+    "clips_viewer",
+    "reel_viewer",
+    "reels_viewer",
+    "reel_player"
+  ],
+  "tab_labels": ["shorts", "reels", "reel", "শর্টস", "রিল"],
+  "words": []
+}
